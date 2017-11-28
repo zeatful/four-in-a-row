@@ -37,7 +37,7 @@ public class Game {
     }
 
     /**
-     * Go through each direction next to the current move to find movies
+     * Go through each direction next to the current move to find four in a row
      *
      * @param p     - point to check
      * @param color - color we are checking
