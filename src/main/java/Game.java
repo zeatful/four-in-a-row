@@ -54,7 +54,7 @@ public class Game {
          1. start at the last move
          2. count nearby matches
             - count same colors in a row in both x and -x directions to see if the count is 4
-            - count same colors in a row in both y and -y directions to see if the count is 4
+            - count same colors in a row in only the -y direction to see if the count is 4.  No piece can exist above the last move so y direction needs not be considered
             - count same colors in a row in in both y = x directions to see if the count is 4
             - count same colors in a row in in both y = -x directions to see if the count is 4
     */

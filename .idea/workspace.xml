@@ -27,8 +27,8 @@
       <file leaf-file-name="Game.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="39" column="79" lean-forward="false" selection-start-line="39" selection-start-column="79" selection-end-line="39" selection-end-column="79" />
+            <state relative-caret-position="312">
+              <caret line="56" column="170" lean-forward="false" selection-start-line="56" selection-start-column="170" selection-end-line="56" selection-end-column="170" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -410,7 +410,7 @@
       <workItem from="1510798078811" duration="12280000" />
       <workItem from="1510810927101" duration="959000" />
       <workItem from="1510931986242" duration="229000" />
-      <workItem from="1511844746577" duration="918000" />
+      <workItem from="1511844746577" duration="990000" />
     </task>
     <servers />
   </component>
@@ -447,7 +447,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14386000" />
+    <option name="totallyTimeSpent" value="14458000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
@@ -594,8 +594,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="39" column="79" lean-forward="false" selection-start-line="39" selection-start-column="79" selection-end-line="39" selection-end-column="79" />
+        <state relative-caret-position="312">
+          <caret line="56" column="170" lean-forward="false" selection-start-line="56" selection-start-column="170" selection-end-line="56" selection-end-column="170" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
